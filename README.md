@@ -3,7 +3,7 @@
 **`Developer and Computer Science Student`**
 
 <p>Gradueted with 100L/100 from the IT course of ITCG A.Deffenu, Olbia (2016-2021)</p>
-<p>Currently at the second year of the Computer Science course at the University of Pisa (2021-2024)</p>
+<p>Currently at the last year of the Computer Science course at the University of Pisa (2021-2024)</p>
 
 #
 

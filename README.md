@@ -1,9 +1,10 @@
 # Davide Fantasia✨
 
-**`Developer and Computer Science Student`**
+**`Developer, Computer Science Graduated and AI Student`**
 
-<p>Gradueted with 100L/100 from the IT course of ITCG A.Deffenu, Olbia (2016-2021)</p>
-<p>Currently at the last year of the Computer Science course at the University of Pisa (2021-2024)</p>
+<p>Currently following the University of Pisa Master Degree in AI (2025-2027)</p>
+<p>Bachelor's degree in Computer Science from the University of Pisa (2021-2025)</p>
+<p>Graduated with 100L/100 from the IT course of ITCG A.Deffenu, Olbia (2016-2021)</p>
 
 #
 
@@ -27,7 +28,7 @@
 
 ### Known Lauguage:
 
-C11, C++, C#, Node.js, JavaScript, JAVA, Python, ARMv7 Assembly, PHP
+C11, C++, GLSL, C#, Node.js, JavaScript, JAVA, Python, ARMv7 Assembly, PHP
 
 #
 

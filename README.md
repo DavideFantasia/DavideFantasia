@@ -1,3 +1,5 @@
+![Burning Ships in real-time](https://github.com/DavideFantasia/fractalGL-explorer/blob/main/docs/img/burningShip.png)
+
 # Davide Fantasia✨
 
 **`Developer, Computer Science Graduated and AI Student`**

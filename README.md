@@ -36,4 +36,4 @@ C11, C++, GLSL, C#, Node.js, JavaScript, JAVA, Python, ARMv7 Assembly, PHP
 
 ### mostly practice in:
 
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideFantasia&layout=compact&theme=buefy&hide_border=true" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideFantasia&layout=compact&theme=buefy&hide_border=true" /></a>

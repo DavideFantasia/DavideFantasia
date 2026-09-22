@@ -2,7 +2,7 @@
 
 # Davide Fantasia✨
 
-**`Developer, Computer Science Graduated and AI MSc Student`**
+**`Developer, CS Graduated and AI MSc Student`**
 
 <p>Currently following the University of Pisa Master Degree in AI (2025-2027)</p>
 <p>Bachelor's degree in Computer Science from the University of Pisa (2021-2025)</p>

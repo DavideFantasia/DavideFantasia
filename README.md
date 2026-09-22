@@ -2,11 +2,23 @@
 
 # Davide Fantasia✨
 
-**`Developer, Computer Science Graduated and AI Student`**
+**`Developer, Computer Science Graduated and AI MSc Student`**
 
 <p>Currently following the University of Pisa Master Degree in AI (2025-2027)</p>
 <p>Bachelor's degree in Computer Science from the University of Pisa (2021-2025)</p>
 <p>Graduated with 100L/100 from the IT course of ITCG A.Deffenu, Olbia (2016-2021)</p>
+
+#
+
+_publications_:
+
+**Audio Tactile for Accessible Teaching in STEM Disciplines**  
+*I-Cities (2026)*
+
+>  interactive audio-tactile solution to make STEM diagrams more accessible to BLV students through two complementary scenarios: a tablet-based overlay with a mobile application, and a tactile IoT board with NanoVNA-based sensing 
+
+[![Paper](https://img.shields.io/badge/📄-Read_the_Paper-blue?style=flat-square)](https://link-al-paper.com)
+[![Codice](https://img.shields.io/badge/💻-Source_Code-2ea44f?style=flat-square)](https://github.com/DavideFantasia/HaptyHub)
 
 #
 

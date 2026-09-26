@@ -10,7 +10,7 @@
 
 #
 
-_publications_:
+### _publications_:
 
 **Audio Tactile for Accessible Teaching in STEM Disciplines**  
 *I-Cities (2026)*
@@ -22,7 +22,7 @@ _publications_:
 
 #
 
-### Coding Experiences:
+### _Coding Experiences_:
 
 <div>
   Olimpiadi Italiane di Informatica (OIIS) - C coding challange:
@@ -40,7 +40,7 @@ _publications_:
 
 #
 
-### Known Lauguage:
+### _Known Lauguage_:
 
 C11, C++, GLSL, C#, Node.js, JavaScript, JAVA, Python, ARMv7 Assembly, PHP
 
@@ -48,4 +48,4 @@ C11, C++, GLSL, C#, Node.js, JavaScript, JAVA, Python, ARMv7 Assembly, PHP
 
 ### mostly practice in:
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideFantasia&layout=compact&theme=buefy&hide_border=true" /></a>
+<a><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=DavideFantasia&layout=compact&langs_count=6&theme=nord" /></a>

@@ -17,7 +17,7 @@
 
 >  interactive audio-tactile solution to make STEM diagrams more accessible to BLV students through two complementary scenarios: a tablet-based overlay with a mobile application, and a tactile IoT board with NanoVNA-based sensing 
 
-[![Paper](https://img.shields.io/badge/📄-Read_the_Paper-blue?style=flat-square)](https://link-al-paper.com)
+[![Paper](https://img.shields.io/badge/📄-Read_the_Paper-blue?style=flat-square)](https://icities26.unibs.it/papers/paper-5.pdf)
 [![Codice](https://img.shields.io/badge/💻-Source_Code-2ea44f?style=flat-square)](https://github.com/DavideFantasia/HaptyHub)
 
 #
